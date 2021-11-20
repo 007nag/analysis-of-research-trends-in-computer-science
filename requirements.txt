@@ -7,3 +7,4 @@ pyLDAvis
 seaborn
 matplotlib
 networkx
+wordcloud
