@@ -4,3 +4,6 @@ json
 gensim
 nltk
 pyLDAvis
+seaborn
+matplotlib
+networkx
